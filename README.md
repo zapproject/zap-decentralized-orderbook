@@ -1,4 +1,4 @@
-# Serum DEX UI
+# Zap decentralised orderbook using fork of Serum DEX UI
 
 An implementation of a UI for the Serum DEX.
 
